@@ -1,4 +1,3 @@
-# todo-app
-Basic React Native ToDo Application!
+# React Native Todo Application
 
-Trying to understand the basics of React and React Native!
+Basic React Native Todo Application!
